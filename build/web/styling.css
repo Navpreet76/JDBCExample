@@ -1,0 +1,29 @@
+*{
+    width:1200px;
+    height: auto;
+    background-color: lightsteelblue;
+    color: #000;
+    font-size: 25px;
+    font-family: 'Verdana', sans-serif;
+    
+    
+}
+* a{
+    text-decoration: none;
+    color: #000;
+}
+* a:hover{
+    background-color: #00FF7F;
+}
+input{
+    width: 250px;
+    font-size: 25px;
+    padding: 5px;
+    margin: 10px;
+    background-color: lightgray;
+    color: #000;
+}
+h1{
+    text-align: center;
+}
+
